@@ -1,4 +1,5 @@
 site_name: Lotus_house
+site_url: https://callmelotus.github.io/Lotus_house/
 
 theme:
   name: material
