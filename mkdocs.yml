@@ -19,6 +19,7 @@ nav:
   - 课程:
       - course/index.md
       - 示例课程: course/example.md
+  - 不可说: Singforme/index.md
   - 友链: friends/index.md
   - 关于: about/index.md
 
